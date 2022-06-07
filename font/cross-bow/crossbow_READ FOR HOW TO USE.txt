@@ -1,0 +1,23 @@
+Crossbow Font Version 1.0
+
+2022 Iconian Fonts - Daniel Zadorozny
+
+http://www.iconian.com/
+
+This font has special characters to add an arrow shaft and an arrowhead to letters to make text or a word look like an arrow is going through it from left to right.
+
+While there are 30 fonts files in the ZIP package, there are really only 15 versions.
+
+The base font is "Crossbow Shaft" where each capital letter has the arrow shaft on the left of the character. These 15 versions are: Regular, Italic, Leftalic, 3D Italic, 3D Leftalic, Gradient, Halftone, Halftone Italic, Halftone Leftalic, Expanded, Expanded Italic, Expanded Leftalic, Epanded 3D and Expanded 3D Italic and Expanded 3D Leftalic.
+
+The other 15 files are the same versions but are for the second base font, "Crossbow Head" where each capital letter has the arrowhead on the right of the character.
+
+Note that you do not have to switch fonts in order to get the full arrow effect. Both base fonts, Shaft and Head, have their counterpart capital letters within each base font, and these can be found in the extended Latin character set - use of a character map program will assist in finding these characters.
+
+So users can just use either the Crossbow Shaft or Crossbow Head font and still have access to all of the characters. However, for users who do not want to rely on using a character map, they can still get the same text effect by switching between the capital letters of the Crossbow Shaft and Crossbow Head fonts.
+
+Also, if you want longer arrowheads and shafts, use the ` and ~ characters.
+
+This font may be freely distributed and is free for all non-commercial uses.  Use of the fonts are at your own risk. This font is e-mailware; that is, if you like it, please e-mail the author at:
+
+iconian@aol.com
